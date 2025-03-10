@@ -1,0 +1,2872 @@
+{
+  "papers": {
+    "p1": {
+      "title": "Observation of gravitational waves from a binary black hole merger",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2016,
+      "cited_by": [
+        "p5",
+        "p6",
+        "p7",
+        "p10",
+        "p56",
+        "p57",
+        "p142"
+      ],
+      "num_citations": 18089,
+      "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p2": {
+      "title": "GW170817: observation of gravitational waves from a binary neutron star inspiral",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2017,
+      "cited_by": [
+        "p21",
+        "p52",
+        "p122",
+        "p125",
+        "p130",
+        "p147",
+        "p168"
+      ],
+      "num_citations": 10557,
+      "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.161101",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p3": {
+      "title": "Advanced ligo",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2015,
+      "cited_by": [
+        "p101",
+        "p147"
+      ],
+      "num_citations": 4788,
+      "scholar_id": "https://iopscience.iop.org/article/10.1088/0264-9381/32/7/074001/meta",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p4": {
+      "title": "GWTC-1: a gravitational-wave transient catalog of compact binary mergers observed by LIGO and Virgo during the first and second observing runs",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2019,
+      "cited_by": [
+        "p127",
+        "p128"
+      ],
+      "num_citations": 4259,
+      "scholar_id": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.9.031040",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p5": {
+      "title": "Multi-messenger observations of a binary neutron star merger",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2017,
+      "cited_by": [
+        "p9",
+        "p52",
+        "p87"
+      ],
+      "num_citations": 4101,
+      "scholar_id": "https://iopscience.iop.org/article/10.3847/2041-8213/aa91c9&title=iopscience.iop.org",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p6": {
+      "title": "Gravitational waves and gamma-rays from a binary neutron star merger: GW170817 and GRB 170817A",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2017,
+      "cited_by": [
+        "p4",
+        "p21",
+        "p129",
+        "p130"
+      ],
+      "num_citations": 3329,
+      "scholar_id": "https://iopscience.iop.org/article/10.3847/2041-8213/aa920c/meta",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p7": {
+      "title": "GW170104: observation of a 50-solar-mass binary black hole coalescence at redshift 0.2",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2017,
+      "cited_by": [
+        "p83",
+        "p102",
+        "p130",
+        "p150",
+        "p168"
+      ],
+      "num_citations": 2998,
+      "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.221101",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p8": {
+      "title": "GW150914: Implications for the stochastic gravitational-wave background from binary black holes",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2016,
+      "cited_by": [
+        "p2",
+        "p5",
+        "p7",
+        "p10",
+        "p52",
+        "p53",
+        "p90",
+        "p121",
+        "p130"
+      ],
+      "num_citations": 2761,
+      "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.131102",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p9": {
+      "title": "GW170817: Measurements of neutron star radii and equation of state",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2018,
+      "cited_by": [
+        "p57",
+        "p87"
+      ],
+      "num_citations": 2664,
+      "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.161101",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p10": {
+      "title": "GW170814: a three-detector observation of gravitational waves from a binary black hole coalescence",
+      "author": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "year": 2017,
+      "cited_by": [
+        "p155",
+        "p158"
+      ],
+      "num_citations": 2500,
+      "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.141101",
+      "professor_id": "t_Vg41AAAAAJ"
+    },
+    "p11": {
+      "title": "Temperature dependence of thermal conductivity enhancement for nanofluids",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p16"
+      ],
+      "num_citations": 3316,
+      "scholar_id": "https://asmedigitalcollection.asme.org/heattransfer/article-abstract/125/4/567/478509",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p12": {
+      "title": "Nanofluids",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2007,
+      "cited_by": [
+        "p48",
+        "p167",
+        "p170"
+      ],
+      "num_citations": 2875,
+      "scholar_id": "",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p13": {
+      "title": "Heat transfer in nanofluids\u2014a review",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2006,
+      "cited_by": [
+        "p12",
+        "p66",
+        "p95",
+        "p152"
+      ],
+      "num_citations": 1706,
+      "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/01457630600904593",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p14": {
+      "title": "Pool boiling characteristics of nano-fluids",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p20",
+        "p27",
+        "p31",
+        "p39",
+        "p66",
+        "p103",
+        "p112"
+      ],
+      "num_citations": 1446,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0017931002003484",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p15": {
+      "title": "Natural convection of nano-fluids",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p34",
+        "p91",
+        "p114",
+        "p134"
+      ],
+      "num_citations": 1436,
+      "scholar_id": "https://link.springer.com/article/10.1007/s00231-002-0382-z",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p16": {
+      "title": "A benchmark study on the thermal conductivity of nanofluids",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [],
+      "num_citations": 1416,
+      "scholar_id": "https://pubs.aip.org/aip/jap/article/106/9/094312/283705",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p17": {
+      "title": "Computationally guided photothermal tumor therapy using long-circulating gold nanorod antennas",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [
+        "p25",
+        "p99",
+        "p109",
+        "p169"
+      ],
+      "num_citations": 1332,
+      "scholar_id": "https://aacrjournals.org/cancerres/article-abstract/69/9/3892/553313",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p18": {
+      "title": "Thermal conductivities of naked and monolayer protected metal nanoparticle based nanofluids: Manifestation of anomalous enhancement and chemical effects",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p36",
+        "p70",
+        "p81",
+        "p106",
+        "p119"
+      ],
+      "num_citations": 1111,
+      "scholar_id": "https://pubs.aip.org/aip/apl/article-abstract/83/14/2931/512527",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p19": {
+      "title": "Effect of particle size on the convective heat transfer in nanofluid in the developing region",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [
+        "p86",
+        "p97",
+        "p146"
+      ],
+      "num_citations": 852,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0017931009000180",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p20": {
+      "title": "Model for heat conduction in nanofluids",
+      "author": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "year": 2004,
+      "cited_by": [
+        "p13",
+        "p16",
+        "p19",
+        "p38",
+        "p106"
+      ],
+      "num_citations": 762,
+      "scholar_id": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.93.144301",
+      "professor_id": "lhVJay4AAAAJ"
+    },
+    "p21": {
+      "title": "High-entropy alloys",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2019,
+      "cited_by": [],
+      "num_citations": 1938,
+      "scholar_id": "https://books.google.com/books?hl=en&lr=&id=VU2NDwAAQBAJ&oi=fnd&pg=PP1&dq=info:-50g5TZTgkYJ:scholar.google.com&ots=_83QmCkKtd&sig=FFBtxCT5BTnxjhQuYxVSYoC4eec",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p22": {
+      "title": "Grain refinement of aluminium and its alloys by heterogeneous nucleation and alloying",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2002,
+      "cited_by": [
+        "p17",
+        "p31",
+        "p34",
+        "p43",
+        "p61",
+        "p134",
+        "p164"
+      ],
+      "num_citations": 989,
+      "scholar_id": "https://journals.sagepub.com/doi/abs/10.1179/095066001225001049",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p23": {
+      "title": "Novel materials synthesis by mechanical alloying/milling",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 1998,
+      "cited_by": [
+        "p62",
+        "p65",
+        "p82"
+      ],
+      "num_citations": 981,
+      "scholar_id": "https://www.tandfonline.com/doi/abs/10.1179/imr.1998.43.3.101",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p24": {
+      "title": "Decomposition in multi-component AlCoCrCuFeNi high-entropy alloy",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2011,
+      "cited_by": [
+        "p4",
+        "p86",
+        "p107",
+        "p168"
+      ],
+      "num_citations": 961,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1359645410005884",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p25": {
+      "title": "Alloying behavior in multi-component AlCoCrCuFe and NiCoCrCuFe high entropy alloys",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2012,
+      "cited_by": [
+        "p29",
+        "p52"
+      ],
+      "num_citations": 438,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509311012834",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p26": {
+      "title": "High-entropy alloys by mechanical alloying: A review",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2019,
+      "cited_by": [],
+      "num_citations": 418,
+      "scholar_id": "https://www.cambridge.org/core/journals/journal-of-materials-research/article/highentropy-alloys-by-mechanical-alloying-a-review/8B9B1E7CDF719FA7C418330BFEF45912",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p27": {
+      "title": "Tensile and wear behaviour of in situ Al\u20137Si/TiB2 particulate composites",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2008,
+      "cited_by": [
+        "p51",
+        "p146"
+      ],
+      "num_citations": 414,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0043164807006680",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p28": {
+      "title": "Synthesis and characterization of nanocrystalline AlFeTiCrZnCu high entropy solid solution by mechanical alloying",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2008,
+      "cited_by": [
+        "p8",
+        "p19",
+        "p25",
+        "p67",
+        "p105",
+        "p106",
+        "p118",
+        "p163"
+      ],
+      "num_citations": 398,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0925838807013199",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p29": {
+      "title": "Bulk tracer diffusion in CoCrFeNi and CoCrFeMnNi high entropy alloys",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2018,
+      "cited_by": [
+        "p21",
+        "p26",
+        "p87",
+        "p102"
+      ],
+      "num_citations": 381,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1359645418300089",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p30": {
+      "title": "Development of an efficient grain refiner for Al\u20137Si alloy and its modification with strontium",
+      "author": "BS Murty",
+      "institution": "IIT Madras",
+      "year": 2000,
+      "cited_by": [
+        "p11",
+        "p75",
+        "p81",
+        "p88"
+      ],
+      "num_citations": 349,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509399007947",
+      "professor_id": "2roOB5gAAAAJ"
+    },
+    "p31": {
+      "title": "Nodulation independent of rhizobia induced by a calcium-activated kinase lacking autoinhibition",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2006,
+      "cited_by": [
+        "p19",
+        "p28"
+      ],
+      "num_citations": 477,
+      "scholar_id": "https://www.nature.com/articles/nature04812",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p32": {
+      "title": "Bandgap and optical transitions in thin films from reflectance measurements",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 1992,
+      "cited_by": [],
+      "num_citations": 304,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/0042207X9290163Q",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p33": {
+      "title": "Hepatitis C Virus Infection in the General Population: A Community\u2013Based Study in West Bengal, India",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p34",
+        "p43"
+      ],
+      "num_citations": 282,
+      "scholar_id": "https://journals.lww.com/hep/abstract/2003/04000/hepatitis_c_virus_infection_in_the_general.14.aspx",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p34": {
+      "title": "Synthesis of a \u03b1-Fe2O3 nanocrystal in its different morphological attributes: growth mechanism, optical andmagnetic properties",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2007,
+      "cited_by": [
+        "p105",
+        "p106",
+        "p163",
+        "p164"
+      ],
+      "num_citations": 263,
+      "scholar_id": "https://iopscience.iop.org/article/10.1088/0957-4484/18/27/275608/meta",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p35": {
+      "title": "Wuhan to world: the COVID-19 pandemic",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2021,
+      "cited_by": [
+        "p57"
+      ],
+      "num_citations": 255,
+      "scholar_id": "https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.596201/full",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p36": {
+      "title": "One-dimensional ZnO nanostructure arrays: Synthesis and characterization",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2006,
+      "cited_by": [
+        "p28",
+        "p34",
+        "p66",
+        "p99",
+        "p116",
+        "p131",
+        "p161",
+        "p162",
+        "p170"
+      ],
+      "num_citations": 237,
+      "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jp056673r",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p37": {
+      "title": "A calcium/calmodulin-regulated member of the receptor-like kinase family confers cold tolerance in plants",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2010,
+      "cited_by": [
+        "p91",
+        "p154"
+      ],
+      "num_citations": 236,
+      "scholar_id": "https://www.jbc.org/article/S0021-9258(19)58700-2/fulltext",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p38": {
+      "title": "Optical properties of SnO2 nanoparticles and nanorods synthesized by solvothermal process",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2006,
+      "cited_by": [
+        "p17",
+        "p24",
+        "p34",
+        "p66",
+        "p67",
+        "p81",
+        "p96",
+        "p99",
+        "p103",
+        "p131",
+        "p161",
+        "p165",
+        "p169"
+      ],
+      "num_citations": 236,
+      "scholar_id": "https://pubs.aip.org/aip/jap/article/99/11/114303/143234",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p39": {
+      "title": "Controlled synthesis and photoluminescence properties of ZnS nanowires and nanoribbons",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2005,
+      "cited_by": [
+        "p45",
+        "p81",
+        "p100",
+        "p112",
+        "p165"
+      ],
+      "num_citations": 236,
+      "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jp045817j",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p40": {
+      "title": "Optical and magnetic properties of manganese-incorporated zinc sulfide nanorods synthesized by a solvothermal process",
+      "author": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "year": 2005,
+      "cited_by": [
+        "p34",
+        "p36",
+        "p38",
+        "p66",
+        "p100",
+        "p134",
+        "p163"
+      ],
+      "num_citations": 218,
+      "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jp053138i",
+      "professor_id": "lZNhr38AAAAJ"
+    },
+    "p41": {
+      "title": "The relationship between service quality and customer satisfaction\u2013a factor specific approach",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2002,
+      "cited_by": [
+        "p14",
+        "p73",
+        "p85",
+        "p88"
+      ],
+      "num_citations": 1941,
+      "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/08876040210433248/full/html",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p42": {
+      "title": "Determinants of customer\u2010perceived service quality: a confirmatory factor analysis approach",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2002,
+      "cited_by": [
+        "p12",
+        "p34",
+        "p85",
+        "p114",
+        "p115"
+      ],
+      "num_citations": 792,
+      "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/08876040210419398/full/html",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p43": {
+      "title": "Ant-colony algorithms for permutation flowshop scheduling to minimize makespan/total flowtime of jobs",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2004,
+      "cited_by": [
+        "p37",
+        "p51",
+        "p69",
+        "p73"
+      ],
+      "num_citations": 623,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0377221702009086",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p44": {
+      "title": "Customer perceptions of service quality: A critique",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2001,
+      "cited_by": [
+        "p84"
+      ],
+      "num_citations": 597,
+      "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/09544120020010138",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p45": {
+      "title": "Patient\u2010perceived dimensions of total quality service in healthcare",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2008,
+      "cited_by": [
+        "p16",
+        "p17",
+        "p48",
+        "p112",
+        "p167",
+        "p170"
+      ],
+      "num_citations": 425,
+      "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/14635770810903150/full/html",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p46": {
+      "title": "A comparative study of dispatching rules in dynamic flowshops and jobshops",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 1999,
+      "cited_by": [
+        "p30",
+        "p69",
+        "p84"
+      ],
+      "num_citations": 411,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S037722179800023X",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p47": {
+      "title": "A holistic model for total quality service",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2001,
+      "cited_by": [
+        "p14",
+        "p20",
+        "p22",
+        "p41",
+        "p42",
+        "p62",
+        "p66",
+        "p68",
+        "p88",
+        "p170"
+      ],
+      "num_citations": 407,
+      "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/09564230110405299/full/",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p48": {
+      "title": "Service quality and its impact on customer satisfaction in Indian hospitals: Perspectives of patients and their attendants",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2010,
+      "cited_by": [
+        "p159",
+        "p167"
+      ],
+      "num_citations": 381,
+      "scholar_id": "https://www.emerald.com/insight/content/doi/10.1108/14635771011089746/full/html",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p49": {
+      "title": "Efficient dispatching rules for scheduling in a job shop",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 1997,
+      "cited_by": [
+        "p46",
+        "p61",
+        "p63",
+        "p78",
+        "p79",
+        "p82"
+      ],
+      "num_citations": 366,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0925527396000680",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p50": {
+      "title": "A conceptual model for total quality management in service organizations",
+      "author": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "year": 2001,
+      "cited_by": [
+        "p63",
+        "p73"
+      ],
+      "num_citations": 335,
+      "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/09544120120034492",
+      "professor_id": "xBzpRysAAAAJ"
+    },
+    "p51": {
+      "title": "Inflammatory bowel disease and mutations affecting the interleukin-10 receptor",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [
+        "p24",
+        "p54",
+        "p91",
+        "p98",
+        "p131"
+      ],
+      "num_citations": 1740,
+      "scholar_id": "https://www.nejm.org/doi/full/10.1056/nejmoa0907206",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p52": {
+      "title": "Updated international consensus diagnostic criteria for eosinophilic esophagitis: proceedings of the AGREE conference",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2018,
+      "cited_by": [
+        "p21",
+        "p102",
+        "p144"
+      ],
+      "num_citations": 1114,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0016508518347632",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p53": {
+      "title": "Tocilizumab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2021,
+      "cited_by": [
+        "p57"
+      ],
+      "num_citations": 905,
+      "scholar_id": "https://www.thelancet.com/article/S0140-6736(21)00676-0/fulltext",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p54": {
+      "title": "The diagnostic approach to monogenic very early onset inflammatory bowel disease",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2014,
+      "cited_by": [
+        "p21",
+        "p124",
+        "p143"
+      ],
+      "num_citations": 786,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0016508514009196",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p55": {
+      "title": "Predictors of anti-TNF treatment failure in anti-TNF-naive patients with active luminal Crohn's disease: a prospective, multicentre, cohort study",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2019,
+      "cited_by": [
+        "p53",
+        "p57",
+        "p60"
+      ],
+      "num_citations": 672,
+      "scholar_id": "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(19)30012-3/abstract",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p56": {
+      "title": "RECOVERY Collaborative Group Dexamethasone in hospitalized patients with Covid-19",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2021,
+      "cited_by": [
+        "p57"
+      ],
+      "num_citations": 638,
+      "scholar_id": "https://scholar.google.com/scholar?cluster=5490563028879243512&hl=en&oi=scholarr",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p57": {
+      "title": "Casirivimab and imdevimab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2022,
+      "cited_by": [],
+      "num_citations": 626,
+      "scholar_id": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00163-5/fulltext",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p58": {
+      "title": "Accuracy of outpatient endometrial biopsy in the diagnosis of endometrial cancer: a systematic quantitative review",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2002,
+      "cited_by": [
+        "p18",
+        "p34",
+        "p61",
+        "p63",
+        "p88",
+        "p112",
+        "p133"
+      ],
+      "num_citations": 396,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1470032802010881",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p59": {
+      "title": "HLA-DQA1* 05 carriage associated with development of anti-drug antibodies to infliximab and adalimumab in patients with Crohn\u2019s disease",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2020,
+      "cited_by": [
+        "p53",
+        "p57",
+        "p125",
+        "p144"
+      ],
+      "num_citations": 372,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0016508519414145",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p60": {
+      "title": "Azithromycin in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial",
+      "author": "neil shah",
+      "institution": "IIT Madras",
+      "year": 2021,
+      "cited_by": [],
+      "num_citations": 351,
+      "scholar_id": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7884931/",
+      "professor_id": "DpJp9HoAAAAJ"
+    },
+    "p61": {
+      "title": "A review of process fault detection and diagnosis: Part I: Quantitative model-based methods",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p13",
+        "p40",
+        "p43",
+        "p66",
+        "p112"
+      ],
+      "num_citations": 4027,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0098135402001606",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p62": {
+      "title": "A review of process fault detection and diagnosis: Part III: Process history based methods",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p17",
+        "p66",
+        "p104"
+      ],
+      "num_citations": 2597,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S009813540200162X",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p63": {
+      "title": "A review of process fault detection and diagnosis: Part II: Qualitative models and search strategies",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p28",
+        "p40",
+        "p100",
+        "p112",
+        "p119",
+        "p133"
+      ],
+      "num_citations": 1802,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0098135402001618",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p64": {
+      "title": "A syntactic pattern-recognition approach for process monitoring and fault diagnosis",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 1995,
+      "cited_by": [
+        "p23",
+        "p58",
+        "p80"
+      ],
+      "num_citations": 230,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/095219769400058U",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p65": {
+      "title": "Locating sensors in complex chemical plants based on fault diagnostic observability criteria",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 1999,
+      "cited_by": [
+        "p62",
+        "p68",
+        "p76"
+      ],
+      "num_citations": 204,
+      "scholar_id": "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.690450212",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p66": {
+      "title": "Fault diagnosis using dynamic trend analysis: A review and recent developments",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2007,
+      "cited_by": [
+        "p67",
+        "p94",
+        "p97",
+        "p98",
+        "p161"
+      ],
+      "num_citations": 199,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0952197606001126",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p67": {
+      "title": "A review of solid oxide fuel cell (SOFC) dynamic models",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [
+        "p3",
+        "p99",
+        "p131"
+      ],
+      "num_citations": 194,
+      "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/ie801664j",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p68": {
+      "title": "Fuzzy-logic based trend classification for fault diagnosis of chemical processes",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p12",
+        "p20",
+        "p66",
+        "p70",
+        "p115",
+        "p161"
+      ],
+      "num_citations": 194,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0098135402002144",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p69": {
+      "title": "Robust and reliable estimation via unscented recursive nonlinear dynamic data reconciliation",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2006,
+      "cited_by": [
+        "p17",
+        "p48",
+        "p67",
+        "p94"
+      ],
+      "num_citations": 191,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0959152406000783",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p70": {
+      "title": "Application of signed digraphs-based analysis for fault diagnosis of chemical process flowsheets",
+      "author": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "year": 2004,
+      "cited_by": [
+        "p17",
+        "p38",
+        "p40",
+        "p81",
+        "p119",
+        "p120",
+        "p162"
+      ],
+      "num_citations": 190,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0952197604000260",
+      "professor_id": "WOCWpzwAAAAJ"
+    },
+    "p71": {
+      "title": "Ad hoc wireless networks: Architectures and protocols",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 2004,
+      "cited_by": [
+        "p28",
+        "p38",
+        "p73",
+        "p74",
+        "p95",
+        "p96",
+        "p100"
+      ],
+      "num_citations": 2857,
+      "scholar_id": "https://books.google.com/books?hl=en&lr=&id=U-yLb-9nXyYC&oi=fnd&pg=PT17&dq=info:FawpBm3QulEJ:scholar.google.com&ots=Vz71FS6OFz&sig=K0WaamPHLV39zIf_1E3rUXOAi-U",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p72": {
+      "title": "WDM Optical Networks: Concepts, design and algorithms",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 2002,
+      "cited_by": [
+        "p18",
+        "p45",
+        "p119"
+      ],
+      "num_citations": 654,
+      "scholar_id": "https://cir.nii.ac.jp/crid/1130282272113021952",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p73": {
+      "title": "Quality of service provisioning in ad hoc wireless networks: a survey of issues and solutions",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 2006,
+      "cited_by": [
+        "p48",
+        "p66",
+        "p74",
+        "p93",
+        "p96",
+        "p99",
+        "p100",
+        "p164"
+      ],
+      "num_citations": 378,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1570870504000459",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p74": {
+      "title": "Node placement algorithm for deployment of two-tier wireless mesh networks",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 2007,
+      "cited_by": [
+        "p3",
+        "p91",
+        "p92",
+        "p93",
+        "p94",
+        "p95",
+        "p99",
+        "p100",
+        "p131",
+        "p163"
+      ],
+      "num_citations": 286,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/4411825/",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p75": {
+      "title": "Efficient algorithms for routing dependable connections in WDM optical networks",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 2001,
+      "cited_by": [
+        "p11",
+        "p20",
+        "p43",
+        "p72",
+        "p95",
+        "p161"
+      ],
+      "num_citations": 275,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/958325/",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p76": {
+      "title": "A dynamic core based multicast routing protocol for ad hoc wireless networks",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 2002,
+      "cited_by": [
+        "p61",
+        "p71",
+        "p73",
+        "p74",
+        "p81",
+        "p99",
+        "p100"
+      ],
+      "num_citations": 270,
+      "scholar_id": "https://dl.acm.org/doi/abs/10.1145/513800.513804",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p77": {
+      "title": "An efficient dynamic scheduling algorithm for multiprocessor real-time systems",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 1998,
+      "cited_by": [
+        "p33",
+        "p44",
+        "p66",
+        "p84"
+      ],
+      "num_citations": 265,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/674322/",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p78": {
+      "title": "A fault-tolerant dynamic scheduling algorithm for multiprocessor real-time systems and its analysis",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 1998,
+      "cited_by": [
+        "p30",
+        "p43",
+        "p85",
+        "p120"
+      ],
+      "num_citations": 253,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/735960/",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p79": {
+      "title": "Lightpath restoration in WDM optical networks",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 2000,
+      "cited_by": [
+        "p14",
+        "p33",
+        "p34",
+        "p43",
+        "p72",
+        "p73"
+      ],
+      "num_citations": 244,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/885667/",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p80": {
+      "title": "Task allocation algorithms for maximizing reliability of distributed computing systems",
+      "author": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "year": 1997,
+      "cited_by": [
+        "p50",
+        "p70",
+        "p72"
+      ],
+      "num_citations": 203,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/600888/",
+      "professor_id": "VjJFBjcAAAAJ"
+    },
+    "p81": {
+      "title": "Mechanical properties of high strength concrete reinforced with metallic and non-metallic fibres",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2007,
+      "cited_by": [
+        "p28",
+        "p95",
+        "p162"
+      ],
+      "num_citations": 568,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946507000571",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p82": {
+      "title": "Sulfate attack research\u2014whither now?",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2001,
+      "cited_by": [
+        "p11",
+        "p12",
+        "p81",
+        "p88"
+      ],
+      "num_citations": 528,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884601005105",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p83": {
+      "title": "Mechanical properties and durability performance of concretes with Limestone Calcined Clay Cement (LC3)",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2018,
+      "cited_by": [
+        "p55",
+        "p56",
+        "p127"
+      ],
+      "num_citations": 522,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884617308360",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p84": {
+      "title": "Mechanism of sulfate attack: A fresh look: Part 1: Summary of experimental results",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2002,
+      "cited_by": [
+        "p15",
+        "p28",
+        "p45",
+        "p61",
+        "p62",
+        "p85",
+        "p120",
+        "p134"
+      ],
+      "num_citations": 521,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S000888460200724X",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p85": {
+      "title": "Mechanism of sulfate attack: a fresh look: Part 2. Proposed mechanisms",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p43",
+        "p115"
+      ],
+      "num_citations": 485,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884602009584",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p86": {
+      "title": "Performance evaluation of sugarcane bagasse ash blended cement in concrete",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2015,
+      "cited_by": [
+        "p5",
+        "p55",
+        "p59",
+        "p83",
+        "p149"
+      ],
+      "num_citations": 431,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946515000347",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p87": {
+      "title": "3D printable concrete: Mixture design and test methods",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2019,
+      "cited_by": [
+        "p128"
+      ],
+      "num_citations": 424,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946518303275",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p88": {
+      "title": "Effects of gypsum formation on the performance of cement mortars during external sulfate attack",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2003,
+      "cited_by": [
+        "p70",
+        "p91",
+        "p151"
+      ],
+      "num_citations": 329,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0008884602009559",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p89": {
+      "title": "Influence of different processing methods on the pozzolanic performance of sugarcane bagasse ash",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2015,
+      "cited_by": [
+        "p7",
+        "p56",
+        "p90",
+        "p129",
+        "p149"
+      ],
+      "num_citations": 307,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946514002042",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p90": {
+      "title": "Assessment of pore structure evolution in the limestone calcined clay cementitious system and its implications for performance",
+      "author": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "year": 2017,
+      "cited_by": [
+        "p9",
+        "p59",
+        "p83"
+      ],
+      "num_citations": 289,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0958946516305583",
+      "professor_id": "bCnS1poAAAAJ"
+    },
+    "p91": {
+      "title": "A tractable approach to coverage and rate in cellular networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2011,
+      "cited_by": [
+        "p92",
+        "p98",
+        "p104",
+        "p109",
+        "p110",
+        "p131",
+        "p156"
+      ],
+      "num_citations": 3497,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6042301/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p92": {
+      "title": "Modeling and analysis of K-tier downlink heterogeneous cellular networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2012,
+      "cited_by": [
+        "p98",
+        "p127",
+        "p129",
+        "p139",
+        "p155"
+      ],
+      "num_citations": 1854,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6171996/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p93": {
+      "title": "Interference in large wireless networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [
+        "p54",
+        "p92",
+        "p99",
+        "p104",
+        "p157",
+        "p167"
+      ],
+      "num_citations": 1124,
+      "scholar_id": "https://www.nowpublishers.com/article/Details/NET-015",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p94": {
+      "title": "Analytical evaluation of fractional frequency reuse for OFDMA cellular networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2011,
+      "cited_by": [
+        "p3",
+        "p92",
+        "p137",
+        "p141",
+        "p155"
+      ],
+      "num_citations": 538,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6047548/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p95": {
+      "title": "A primer on spatial modeling and analysis in wireless networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2010,
+      "cited_by": [
+        "p24",
+        "p94",
+        "p104"
+      ],
+      "num_citations": 507,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5621983/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p96": {
+      "title": "Interference and Outage in Clustered Wireless Ad Hoc Networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [
+        "p1",
+        "p95",
+        "p98"
+      ],
+      "num_citations": 462,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5208529/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p97": {
+      "title": "Comparison of fractional frequency reuse approaches in the OFDMA cellular downlink",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2010,
+      "cited_by": [
+        "p25",
+        "p91",
+        "p92",
+        "p94",
+        "p146"
+      ],
+      "num_citations": 290,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5683973/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p98": {
+      "title": "Towards understanding the fundamentals of mobility in cellular networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2013,
+      "cited_by": [
+        "p89",
+        "p122",
+        "p140",
+        "p168"
+      ],
+      "num_citations": 269,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/6477064/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p99": {
+      "title": "On the throughput cost of physical layer security in decentralized wireless networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2011,
+      "cited_by": [
+        "p5",
+        "p21",
+        "p86",
+        "p104"
+      ],
+      "num_citations": 266,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5934342/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p100": {
+      "title": "Spatial and temporal correlation of the interference in ALOHA ad hoc networks",
+      "author": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "year": 2009,
+      "cited_by": [
+        "p91",
+        "p94",
+        "p116",
+        "p141"
+      ],
+      "num_citations": 264,
+      "scholar_id": "https://ieeexplore.ieee.org/abstract/document/5282357/",
+      "professor_id": "ZKOZPcEAAAAJ"
+    },
+    "p101": {
+      "title": "Methods and materials for additive manufacturing: A critical review on advancements and challenges",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2021,
+      "cited_by": [
+        "p144"
+      ],
+      "num_citations": 364,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0263823120311009",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p102": {
+      "title": "Selective laser sintering",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2021,
+      "cited_by": [],
+      "num_citations": 259,
+      "scholar_id": "https://www.benthamdirect.com/content/books/9789815036336.chapter-2",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p103": {
+      "title": "Effect of friction welding parameters on mechanical and metallurgical properties of ferritic stainless steel",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2007,
+      "cited_by": [
+        "p19",
+        "p105",
+        "p106",
+        "p118",
+        "p135",
+        "p163",
+        "p170"
+      ],
+      "num_citations": 180,
+      "scholar_id": "https://link.springer.com/article/10.1007/s00170-005-0285-5",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p104": {
+      "title": "Optimization of laser welding process parameters for super austenitic stainless steel using artificial neural networks and genetic algorithm",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2012,
+      "cited_by": [
+        "p98",
+        "p110",
+        "p122",
+        "p135",
+        "p136",
+        "p137",
+        "p143",
+        "p159"
+      ],
+      "num_citations": 155,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306911007886",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p105": {
+      "title": "Effect of shielding gases on mechanical and metallurgical properties of duplex stainless-steel welds",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p24",
+        "p99",
+        "p109",
+        "p118",
+        "p137",
+        "p146"
+      ],
+      "num_citations": 150,
+      "scholar_id": "https://link.springer.com/article/10.1007/s10853-008-3098-8",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p106": {
+      "title": "Optimization of friction welding parameters using evolutionary computational techniques",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p86",
+        "p95",
+        "p135",
+        "p152",
+        "p165"
+      ],
+      "num_citations": 144,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0924013608005025",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p107": {
+      "title": "Arduino ATMEGA-328 microcontroller",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2015,
+      "cited_by": [
+        "p6",
+        "p7",
+        "p101",
+        "p126",
+        "p148"
+      ],
+      "num_citations": 124,
+      "scholar_id": "https://www.academia.edu/download/77541710/ijireeice.2015.pdf",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p108": {
+      "title": "Mechanical and metallurgical properties of friction welded AISI 304 austenitic stainless steel",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2005,
+      "cited_by": [
+        "p13",
+        "p51",
+        "p93",
+        "p103",
+        "p105",
+        "p118",
+        "p146",
+        "p159",
+        "p162"
+      ],
+      "num_citations": 124,
+      "scholar_id": "https://link.springer.com/article/10.1007/s00170-004-2018-6",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p109": {
+      "title": "Effect of shielding gases on microstructure and mechanical properties of super austenitic stainless steel by hybrid welding",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2012,
+      "cited_by": [
+        "p83",
+        "p110",
+        "p135",
+        "p153",
+        "p168"
+      ],
+      "num_citations": 121,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306911004730",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p110": {
+      "title": "Simulation and parameter optimization of flux cored arc welding using artificial neural network and particle swarm optimization algorithm",
+      "author": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "year": 2014,
+      "cited_by": [
+        "p129",
+        "p136",
+        "p138"
+      ],
+      "num_citations": 118,
+      "scholar_id": "https://link.springer.com/article/10.1007/s10845-012-0675-0",
+      "professor_id": "H1jS8J4AAAAJ"
+    },
+    "p111": {
+      "title": "Effect of weld metal chemistry and heat input on the structure and properties of duplex stainless steel welds",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2003,
+      "cited_by": [
+        "p13",
+        "p48",
+        "p105",
+        "p108",
+        "p115",
+        "p120",
+        "p133"
+      ],
+      "num_citations": 639,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509303000777",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p112": {
+      "title": "Electrochemical corrosion behaviour of plasma electrolytic oxidation coatings on AM50 magnesium alloy formed in silicate and phosphate based electrolytes",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p104",
+        "p116",
+        "p117",
+        "p159"
+      ],
+      "num_citations": 358,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0013468609002229",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p113": {
+      "title": "Comparison of electrochemical corrosion behaviour of MgO and ZrO2 coatings on AM50 magnesium alloy formed by plasma electrolytic oxidation",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p109",
+        "p116",
+        "p118",
+        "p143",
+        "p155",
+        "p167",
+        "p169"
+      ],
+      "num_citations": 308,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0010938X0900287X",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p114": {
+      "title": "Effect of current density on the microstructure and corrosion behaviour of plasma electrolytic oxidation treated AM50 magnesium alloy",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p24",
+        "p89",
+        "p109",
+        "p116",
+        "p118",
+        "p131",
+        "p135"
+      ],
+      "num_citations": 283,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0169433208023283",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p115": {
+      "title": "Effect of nickel and nitrogen addition on the microstructure and mechanical properties of power beam processed duplex stainless steel (UNS 31803) weld metals",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2005,
+      "cited_by": [
+        "p16",
+        "p19",
+        "p45",
+        "p96",
+        "p103",
+        "p152"
+      ],
+      "num_citations": 197,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0167577X05002508",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p116": {
+      "title": "Effect of pulse frequency on the microstructure, phase composition and corrosion performance of a phosphate-based plasma electrolytic oxidation coated AM50 magnesium alloy",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2010,
+      "cited_by": [
+        "p24",
+        "p94",
+        "p98",
+        "p104",
+        "p109",
+        "p126",
+        "p139",
+        "p146",
+        "p149",
+        "p157"
+      ],
+      "num_citations": 171,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0169433210000796",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p117": {
+      "title": "Influence of chloride ion concentration on the electrochemical corrosion behaviour of plasma electrolytic oxidation coated AM50 magnesium alloy",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2010,
+      "cited_by": [
+        "p89",
+        "p94",
+        "p107",
+        "p137",
+        "p141",
+        "p150",
+        "p154"
+      ],
+      "num_citations": 169,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0013468610007899",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p118": {
+      "title": "Characterisation of microstructure, mechanical properties and corrosion behaviour of an AA2219 friction stir weldment",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2010,
+      "cited_by": [
+        "p109",
+        "p146",
+        "p159",
+        "p167"
+      ],
+      "num_citations": 155,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0925838809025493",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p119": {
+      "title": "An assessment of impact strength and corrosion behaviour of shielded metal arc welded dissimilar weldments between UNS 31803 and IS 2062 steels",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2006,
+      "cited_by": [
+        "p48",
+        "p118",
+        "p159",
+        "p165"
+      ],
+      "num_citations": 145,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306904002729",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p120": {
+      "title": "Stress corrosion cracking susceptibility of friction stir welded AA7075\u2013AA6056 dissimilar joint",
+      "author": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "year": 2005,
+      "cited_by": [
+        "p106",
+        "p118",
+        "p131",
+        "p134"
+      ],
+      "num_citations": 144,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509304011785",
+      "professor_id": "fE1RrH0AAAAJ"
+    },
+    "p121": {
+      "title": "Influence of wood dust fillers on the mechanical, thermal, water absorption and biodegradation characteristics of jute fiber epoxy composites",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2020,
+      "cited_by": [
+        "p53",
+        "p57",
+        "p102"
+      ],
+      "num_citations": 466,
+      "scholar_id": "https://link.springer.com/article/10.1007/S10965-019-1975-2",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p122": {
+      "title": "Characterization of raw and alkali treated new natural cellulosic fibers from Tridax procumbens",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2019,
+      "cited_by": [
+        "p125",
+        "p127",
+        "p128"
+      ],
+      "num_citations": 417,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0141813018347135",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p123": {
+      "title": "Investigation on the mechanical behavior of areca sheath fibers/jute fibers/glass fabrics reinforced hybrid composite for light weight applications",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2020,
+      "cited_by": [
+        "p128"
+      ],
+      "num_citations": 207,
+      "scholar_id": "https://journals.sagepub.com/doi/abs/10.1177/1528083718804207",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p124": {
+      "title": "Investigation on thermo-mechanical characteristics of treated/untreated Portunus sanguinolentus shell powder-based jute fabrics reinforced epoxy composites",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2020,
+      "cited_by": [
+        "p57",
+        "p144"
+      ],
+      "num_citations": 162,
+      "scholar_id": "https://journals.sagepub.com/doi/abs/10.1177/1528083719832851",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p125": {
+      "title": "Characterization of alkali-treated and untreated natural fibers from the stem of parthenium hysterophorus",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2021,
+      "cited_by": [],
+      "num_citations": 153,
+      "scholar_id": "https://www.tandfonline.com/doi/shareview/10.1080/15440478.2019.1612308",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p126": {
+      "title": "FHNO 2019 Abstract Edition",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2019,
+      "cited_by": [
+        "p144"
+      ],
+      "num_citations": 152,
+      "scholar_id": "https://journals.lww.com/jhns/fulltext/2019/07001/FHNO_2019_Abstract_Edition.117.aspx",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p127": {
+      "title": "Characterization of Silane-Treated and Untreated Natural Fibers from Stem of Leucas Aspera",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2021,
+      "cited_by": [],
+      "num_citations": 141,
+      "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/15440478.2019.1710651",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p128": {
+      "title": "Characterization of chemical treated and untreated natural fibers from Pennisetum orientale grass-A potential reinforcement for lightweight polymeric applications",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2021,
+      "cited_by": [],
+      "num_citations": 136,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S2588840420300457",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p129": {
+      "title": "Influence of various cashew friction dusts on the fade and recovery characteristics of non-asbestos copper free brake friction composites",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2019,
+      "cited_by": [
+        "p56",
+        "p121",
+        "p124",
+        "p158"
+      ],
+      "num_citations": 125,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0043164818316004",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p130": {
+      "title": "Characterization of untreated and alkali treated natural fibers extracted from the stem of Catharanthus roseus",
+      "author": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "year": 2019,
+      "cited_by": [
+        "p125",
+        "p127",
+        "p128"
+      ],
+      "num_citations": 119,
+      "scholar_id": "https://iopscience.iop.org/article/10.1088/2053-1591/ab22d9/meta",
+      "professor_id": "s27Hus0AAAAJ"
+    },
+    "p131": {
+      "title": "Fabrication of corrosion resistant, bioactive and antibacterial silver substituted hydroxyapatite/titania composite coating on Cp Ti",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2012,
+      "cited_by": [
+        "p110",
+        "p126",
+        "p130",
+        "p141",
+        "p149",
+        "p154"
+      ],
+      "num_citations": 854,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0272884211007073",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p132": {
+      "title": "Effect of weld metal chemistry and heat input on the structure and properties of duplex stainless steel welds",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2003,
+      "cited_by": [
+        "p13",
+        "p19",
+        "p34",
+        "p103",
+        "p105",
+        "p108",
+        "p116",
+        "p120",
+        "p133",
+        "p134",
+        "p163"
+      ],
+      "num_citations": 639,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0921509303000777",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p133": {
+      "title": "Effect of nickel and nitrogen addition on the microstructure and mechanical properties of power beam processed duplex stainless steel (UNS 31803) weld metals",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2005,
+      "cited_by": [
+        "p31",
+        "p34",
+        "p73",
+        "p81",
+        "p105",
+        "p118",
+        "p134",
+        "p151",
+        "p161"
+      ],
+      "num_citations": 197,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0167577X05002508",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p134": {
+      "title": "An assessment of impact strength and corrosion behaviour of shielded metal arc welded dissimilar weldments between UNS 31803 and IS 2062 steels",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2006,
+      "cited_by": [
+        "p12",
+        "p45",
+        "p95",
+        "p100",
+        "p103",
+        "p105",
+        "p112",
+        "p113",
+        "p114",
+        "p117",
+        "p118",
+        "p170"
+      ],
+      "num_citations": 146,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0261306904002729",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p135": {
+      "title": "Properties of friction welding titanium-stainless steel joints with a nickel interlayer",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2014,
+      "cited_by": [
+        "p87",
+        "p90",
+        "p136",
+        "p143",
+        "p149",
+        "p154"
+      ],
+      "num_citations": 143,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S2211812814007718",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p136": {
+      "title": "Analysis and characterization of the role of Ni interlayer in the friction welding of titanium and 304 austenitic stainless steel",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2016,
+      "cited_by": [
+        "p121",
+        "p127",
+        "p129",
+        "p130",
+        "p138",
+        "p142",
+        "p158",
+        "p168"
+      ],
+      "num_citations": 134,
+      "scholar_id": "https://link.springer.com/article/10.1007/s11661-015-3210-z",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p137": {
+      "title": "Evaluation of microstructures and mechanical properties of dissimilar materials by friction welding",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2014,
+      "cited_by": [
+        "p3",
+        "p26",
+        "p102",
+        "p123",
+        "p129",
+        "p141",
+        "p142",
+        "p154"
+      ],
+      "num_citations": 117,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S221181281400769X",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p138": {
+      "title": "A new approach for using interlayer and analysis of the friction welding of titanium to stainless steel",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2017,
+      "cited_by": [
+        "p122",
+        "p126",
+        "p129",
+        "p130",
+        "p140"
+      ],
+      "num_citations": 93,
+      "scholar_id": "https://link.springer.com/article/10.1007/s12666-017-1114-x",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p139": {
+      "title": "Enhanced Relative Slip Distance in Gas-Tungsten-Arc-Welded Al0.5CoCrFeNi High-Entropy Alloy",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2017,
+      "cited_by": [
+        "p4",
+        "p59",
+        "p60",
+        "p124",
+        "p125",
+        "p126",
+        "p129",
+        "p140"
+      ],
+      "num_citations": 88,
+      "scholar_id": "https://link.springer.com/article/10.1007/S11661-017-4140-8",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p140": {
+      "title": "Dissimilar welding of Al0. 1CoCrFeNi high-entropy alloy and AISI304 stainless steel",
+      "author": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "year": 2019,
+      "cited_by": [
+        "p59",
+        "p101"
+      ],
+      "num_citations": 80,
+      "scholar_id": "https://www.cambridge.org/core/journals/journal-of-materials-research/article/dissimilar-welding-of-al01cocrfeni-highentropy-alloy-and-aisi304-stainless-steel/F1F21837B61D5BBCDF8F3457374E52F1",
+      "professor_id": "EXuozuEAAAAJ"
+    },
+    "p141": {
+      "title": "Status and Perspectives of Multiferroic Magnetoelectric Composite Materials and Applications",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2016,
+      "cited_by": [
+        "p4",
+        "p52",
+        "p123",
+        "p128",
+        "p166",
+        "p168"
+      ],
+      "num_citations": 527,
+      "scholar_id": "https://www.mdpi.com/2076-0825/5/1/9",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p142": {
+      "title": "Laser irradiation of metal oxide films and nanostructures: applications and advances",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2018,
+      "cited_by": [
+        "p123"
+      ],
+      "num_citations": 285,
+      "scholar_id": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201705148",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p143": {
+      "title": "Self\u2010Powered Wireless Sensor Node Enabled by an Aerosol\u2010Deposited PZT Flexible Energy Harvester",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2016,
+      "cited_by": [
+        "p6",
+        "p26",
+        "p126",
+        "p145",
+        "p150"
+      ],
+      "num_citations": 260,
+      "scholar_id": "https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201600237",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p144": {
+      "title": "Are lead-free relaxor ferroelectric materials the most promising candidates for energy storage capacitors?",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2023,
+      "cited_by": [],
+      "num_citations": 205,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S007964252200127X",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p145": {
+      "title": "Magnetic energy harvesting with magnetoelectrics: an emerging technology for self-powered autonomous systems",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2017,
+      "cited_by": [
+        "p87",
+        "p127",
+        "p130"
+      ],
+      "num_citations": 170,
+      "scholar_id": "https://pubs.rsc.org/en/content/articlehtml/2017/se/c7se00403f",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p146": {
+      "title": "Particle size dependent magnetic properties and phase transitions in multiferroic BiFeO3 nano-particles",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2012,
+      "cited_by": [
+        "p110",
+        "p137",
+        "p139",
+        "p141",
+        "p145"
+      ],
+      "num_citations": 160,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0925838812013151",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p147": {
+      "title": "Exceeding milli-watt powering magneto-mechano-electric generator for standalone-powered electronics",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2018,
+      "cited_by": [
+        "p26",
+        "p60",
+        "p102",
+        "p127",
+        "p129"
+      ],
+      "num_citations": 135,
+      "scholar_id": "https://pubs.rsc.org/en/content/articlehtml/2018/ee/c7ee03429f",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p148": {
+      "title": "Low-Loss Piezoelectric Single-Crystal Fibers for Enhanced Magnetic Energy Harvesting with Magnetoelectric Composite",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2016,
+      "cited_by": [
+        "p21",
+        "p129",
+        "p130",
+        "p139",
+        "p145",
+        "p150"
+      ],
+      "num_citations": 127,
+      "scholar_id": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16146832&AN=120306665&h=VMlKKaBmHHLruWwF%2Bs8DqqPQ366CCoWohB9r2PbHdD%2FtL6rDf2zmyDxSd3GEqudn1FfB7ai825BlxsvmSll45Q%3D%3D&crl=c",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p149": {
+      "title": "AC Impedance Spectroscopy, Conductivity and Optical Studies of Sr doped Bismuth Ferrite Nanocomposites",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2016,
+      "cited_by": [
+        "p6",
+        "p7",
+        "p35",
+        "p52",
+        "p83",
+        "p87",
+        "p124",
+        "p125",
+        "p139",
+        "p147"
+      ],
+      "num_citations": 80,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1452398123174645",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p150": {
+      "title": "Lead-free piezoelectric materials and composites for high power density energy harvesting",
+      "author": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "year": 2018,
+      "cited_by": [
+        "p21",
+        "p123",
+        "p124",
+        "p140"
+      ],
+      "num_citations": 75,
+      "scholar_id": "https://www.cambridge.org/core/journals/journal-of-materials-research/article/leadfree-piezoelectric-materials-and-composites-for-high-power-density-energy-harvesting/A7A1E72CC092A8208C2861D03B2905C9",
+      "professor_id": "_WgoH_gAAAAJ"
+    },
+    "p151": {
+      "title": "A review on gasification of biomass",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p37",
+        "p99",
+        "p131",
+        "p164"
+      ],
+      "num_citations": 629,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032107001141",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p152": {
+      "title": "Parameters influencing the design of photobioreactor for the growth of microalgae",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2012,
+      "cited_by": [
+        "p10",
+        "p87"
+      ],
+      "num_citations": 190,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032112003930",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p153": {
+      "title": "A critical view on the eco-friendliness of small hydroelectric installations",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2014,
+      "cited_by": [],
+      "num_citations": 123,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0048969713013302",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p154": {
+      "title": "Characterization of Micro Algal Biomass Through FTIR/TGA /CHN Analysis: Application to Scenedesmus sp.",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2015,
+      "cited_by": [
+        "p1",
+        "p53",
+        "p122",
+        "p125",
+        "p130",
+        "p136"
+      ],
+      "num_citations": 122,
+      "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/15567036.2013.825661",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p155": {
+      "title": "Analysis of different combinations of meteorological parameters in predicting the horizontal global solar radiation with ANN approach: A case study",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2018,
+      "cited_by": [
+        "p55",
+        "p57",
+        "p101"
+      ],
+      "num_citations": 119,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032118301953",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p156": {
+      "title": "DEPHY project: distillery wastewater treatment through anaerobic digestion and phycoremediation\u2014a green industrial approach",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2014,
+      "cited_by": [
+        "p10",
+        "p138",
+        "p143",
+        "p154",
+        "p168"
+      ],
+      "num_citations": 97,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S1364032114003876",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p157": {
+      "title": "An overview of CO2 mitigation using algae cultivation technology",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2011,
+      "cited_by": [
+        "p104",
+        "p141",
+        "p142",
+        "p146"
+      ],
+      "num_citations": 78,
+      "scholar_id": "https://www.academia.edu/download/23606270/An_overview_of_CO2_mitigation_using_Algal_Cultivation_Technology.pdf",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p158": {
+      "title": "Potential utilization of fish waste for the sustainable production of microalgae rich in renewable protein and phycocyanin-Arthrospira platensis/Spirulina",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2021,
+      "cited_by": [
+        "p144"
+      ],
+      "num_citations": 77,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0959652621003267",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p159": {
+      "title": "Modelling and estimation of photosynthetically active incident radiation based on global irradiance in Indian latitudes",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2013,
+      "cited_by": [
+        "p9",
+        "p89",
+        "p130",
+        "p135",
+        "p142",
+        "p145"
+      ],
+      "num_citations": 74,
+      "scholar_id": "https://link.springer.com/article/10.1186/2251-6832-4-21",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p160": {
+      "title": "A mathematical model to assess the potential of algal bio-fuels in India",
+      "author": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "year": 2012,
+      "cited_by": [
+        "p110"
+      ],
+      "num_citations": 69,
+      "scholar_id": "https://www.tandfonline.com/doi/abs/10.1080/15567036.2011.645121",
+      "professor_id": "YL5LvsUAAAAJ"
+    },
+    "p161": {
+      "title": "L-Proline: an efficient catalyst for the one-pot synthesis of 2, 4, 5-trisubstituted and 1, 2, 4, 5-tetrasubstituted imidazoles",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p117",
+        "p135",
+        "p160",
+        "p164",
+        "p167"
+      ],
+      "num_citations": 379,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040402009015385",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p162": {
+      "title": "An efficient one-pot synthesis of tetrahydrobenzo [a] xanthene-11-one and diazabenzo [a] anthracene-9, 11-dione derivatives under solvent free condition",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p37",
+        "p94",
+        "p110",
+        "p118",
+        "p164",
+        "p165",
+        "p167",
+        "p169"
+      ],
+      "num_citations": 283,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040402009008709",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p163": {
+      "title": "Atom-efficient and environment-friendly multicomponent synthesis of amidoalkyl naphthols catalyzed by P2O5",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p137",
+        "p149",
+        "p159",
+        "p164"
+      ],
+      "num_citations": 179,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403909020000",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p164": {
+      "title": "An efficient and facile one-pot synthesis of propargylamines by three-component coupling of aldehydes, amines, and alkynes via C\u2013H activation catalyzed by NiCl2",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2010,
+      "cited_by": [
+        "p131",
+        "p137",
+        "p145"
+      ],
+      "num_citations": 172,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403910014644",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p165": {
+      "title": "A facile approach for the synthesis of 14-aryl-or alkyl-14H-dibenzo [a, j] xanthenes under solvent-free condition",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2010,
+      "cited_by": [
+        "p91",
+        "p94",
+        "p156",
+        "p157",
+        "p167"
+      ],
+      "num_citations": 134,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403909021844",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p166": {
+      "title": "Recent Advances in the A3 Coupling Reactions and their Applications",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2019,
+      "cited_by": [
+        "p57",
+        "p128"
+      ],
+      "num_citations": 103,
+      "scholar_id": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201900001",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p167": {
+      "title": "One-pot two-component [3+ 2] cycloaddition/annulation protocol for the synthesis of highly functionalized thiophene derivatives",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2011,
+      "cited_by": [
+        "p25",
+        "p109",
+        "p110",
+        "p153",
+        "p159"
+      ],
+      "num_citations": 103,
+      "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jo200685e",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p168": {
+      "title": "Sulfonimidamides: synthesis and applications in preparative organic chemistry",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2018,
+      "cited_by": [
+        "p26",
+        "p166"
+      ],
+      "num_citations": 102,
+      "scholar_id": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/adsc.201800273",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p169": {
+      "title": "Biginelli and Hantzsch-type reactions leading to highly functionalized dihydropyrimidinone, thiocoumarin, and pyridopyrimidinone frameworks via ring annulation with \u03b2-oxodithioesters",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2010,
+      "cited_by": [
+        "p99",
+        "p104",
+        "p146",
+        "p155",
+        "p167"
+      ],
+      "num_citations": 102,
+      "scholar_id": "https://pubs.acs.org/doi/abs/10.1021/jo101572c",
+      "professor_id": "YKSfgC0AAAAJ"
+    },
+    "p170": {
+      "title": "Multicomponent one-pot solvent-free synthesis of functionalized unsymmetrical dihydro-1H-indeno [1, 2-b] pyridines",
+      "author": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "year": 2009,
+      "cited_by": [
+        "p116",
+        "p118",
+        "p164",
+        "p165",
+        "p167"
+      ],
+      "num_citations": 88,
+      "scholar_id": "https://www.sciencedirect.com/science/article/pii/S0040403909019571",
+      "professor_id": "YKSfgC0AAAAJ"
+    }
+  },
+  "professors": {
+    "t_Vg41AAAAAJ": {
+      "name": "Chandra Kant Mishra IITM",
+      "institution": "IIT Madras",
+      "papers": [
+        "p1",
+        "p2",
+        "p3",
+        "p4",
+        "p5",
+        "p6",
+        "p7",
+        "p8",
+        "p9",
+        "p10"
+      ]
+    },
+    "lhVJay4AAAAJ": {
+      "name": "Sarit Kumar Das",
+      "institution": "IIT Madras",
+      "papers": [
+        "p11",
+        "p12",
+        "p13",
+        "p14",
+        "p15",
+        "p16",
+        "p17",
+        "p18",
+        "p19",
+        "p20"
+      ]
+    },
+    "2roOB5gAAAAJ": {
+      "name": "BS Murty",
+      "institution": "IIT Madras",
+      "papers": [
+        "p21",
+        "p22",
+        "p23",
+        "p24",
+        "p25",
+        "p26",
+        "p27",
+        "p28",
+        "p29",
+        "p30"
+      ]
+    },
+    "lZNhr38AAAAJ": {
+      "name": "Satabda Chaudhuri",
+      "institution": "IIT Madras",
+      "papers": [
+        "p31",
+        "p32",
+        "p33",
+        "p34",
+        "p35",
+        "p36",
+        "p37",
+        "p38",
+        "p39",
+        "p40"
+      ]
+    },
+    "xBzpRysAAAAJ": {
+      "name": "chandrasekharan rajendran",
+      "institution": "IIT Madras",
+      "papers": [
+        "p41",
+        "p42",
+        "p43",
+        "p44",
+        "p45",
+        "p46",
+        "p47",
+        "p48",
+        "p49",
+        "p50"
+      ]
+    },
+    "DpJp9HoAAAAJ": {
+      "name": "neil shah",
+      "institution": "IIT Madras",
+      "papers": [
+        "p51",
+        "p52",
+        "p53",
+        "p54",
+        "p55",
+        "p56",
+        "p57",
+        "p58",
+        "p59",
+        "p60"
+      ]
+    },
+    "WOCWpzwAAAAJ": {
+      "name": "Raghunathan Rengaswamy",
+      "institution": "IIT Madras",
+      "papers": [
+        "p61",
+        "p62",
+        "p63",
+        "p64",
+        "p65",
+        "p66",
+        "p67",
+        "p68",
+        "p69",
+        "p70"
+      ]
+    },
+    "VjJFBjcAAAAJ": {
+      "name": "C. Siva Ram Murthy",
+      "institution": "IIT Madras",
+      "papers": [
+        "p71",
+        "p72",
+        "p73",
+        "p74",
+        "p75",
+        "p76",
+        "p77",
+        "p78",
+        "p79",
+        "p80"
+      ]
+    },
+    "bCnS1poAAAAJ": {
+      "name": "Manu Santhanam",
+      "institution": "IIT Madras",
+      "papers": [
+        "p81",
+        "p82",
+        "p83",
+        "p84",
+        "p85",
+        "p86",
+        "p87",
+        "p88",
+        "p89",
+        "p90"
+      ]
+    },
+    "ZKOZPcEAAAAJ": {
+      "name": "RadhaKrishna Ganti",
+      "institution": "IIT Madras",
+      "papers": [
+        "p91",
+        "p92",
+        "p93",
+        "p94",
+        "p95",
+        "p96",
+        "p97",
+        "p98",
+        "p99",
+        "p100"
+      ]
+    },
+    "H1jS8J4AAAAJ": {
+      "name": "Dr. P SATHIYA",
+      "institution": "NIT Trichy",
+      "papers": [
+        "p101",
+        "p102",
+        "p103",
+        "p104",
+        "p105",
+        "p106",
+        "p107",
+        "p108",
+        "p109",
+        "p110"
+      ]
+    },
+    "fE1RrH0AAAAJ": {
+      "name": "P. Bala Srinivasan",
+      "institution": "NIT Trichy",
+      "papers": [
+        "p111",
+        "p112",
+        "p113",
+        "p114",
+        "p115",
+        "p116",
+        "p117",
+        "p118",
+        "p119",
+        "p120"
+      ]
+    },
+    "s27Hus0AAAAJ": {
+      "name": "Lenin Singaravelu D",
+      "institution": "NIT Trichy",
+      "papers": [
+        "p121",
+        "p122",
+        "p123",
+        "p124",
+        "p125",
+        "p126",
+        "p127",
+        "p128",
+        "p129",
+        "p130"
+      ]
+    },
+    "EXuozuEAAAAJ": {
+      "name": "Veerappan Muthupandi",
+      "institution": "NIT Trichy",
+      "papers": [
+        "p131",
+        "p132",
+        "p133",
+        "p134",
+        "p135",
+        "p136",
+        "p137",
+        "p138",
+        "p139",
+        "p140"
+      ]
+    },
+    "_WgoH_gAAAAJ": {
+      "name": "Dr. Annapureddy Venkateswarlu",
+      "institution": "NIT Trichy",
+      "papers": [
+        "p141",
+        "p142",
+        "p143",
+        "p144",
+        "p145",
+        "p146",
+        "p147",
+        "p148",
+        "p149",
+        "p150"
+      ]
+    },
+    "YL5LvsUAAAAJ": {
+      "name": "Premalatha Manikam",
+      "institution": "NIT Trichy",
+      "papers": [
+        "p151",
+        "p152",
+        "p153",
+        "p154",
+        "p155",
+        "p156",
+        "p157",
+        "p158",
+        "p159",
+        "p160"
+      ]
+    },
+    "YKSfgC0AAAAJ": {
+      "name": "Ganesh Chandra Nandi",
+      "institution": "NIT Trichy",
+      "papers": [
+        "p161",
+        "p162",
+        "p163",
+        "p164",
+        "p165",
+        "p166",
+        "p167",
+        "p168",
+        "p169",
+        "p170"
+      ]
+    }
+  }
+}
